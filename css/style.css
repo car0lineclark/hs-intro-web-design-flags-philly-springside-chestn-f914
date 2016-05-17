@@ -1,6 +1,17 @@
 @import url(http://fonts.googleapis.com/css?family=Cinzel+Decorative);
 
-/* Header Styling */
+#ukraine div {
+  height: 175px;
+  width: 800px;
+}
+
+#box1 {
+  background-color: blue;
+}
+
+#box2 {
+  background-color: yellow;
+}
 
 h1, h2 {
   text-align: center;
@@ -45,15 +56,142 @@ h3 {
 }
 
 /* Germany */
+#germany div {
+  height: 110px;
+  width: 800px;
+}
+
+#box3 {
+  background-color: black;
+}
+
+#box4 {
+  background-color: red;
+}
+
+#box5 {
+  background-color: yellow;
+}
 
 
 /* Lithuania */
+#lithuania div {
+  height: 110px;
+  width: 800px;
+}
+#box6 {
+  background-color: yellow;
+}
+
+#box7 {
+  background-color: green;
+}
+
+#box8 {
+  background-color: red;
+}
 
 /* Yemen */
+#yemen div {
+  height: 110px;
+  width: 800px;
+}
+
+#box9 {
+  background-color: red;
+  margin-bottom: 110px;
+}
+
+#box10 {
+  background-color: black;
+}
 
 /* The Gambia */
+#gambia div {
+  height: 110px;
+  width: 800px;
+}
+#ga1 {
+  background-color: red;
+  margin-bottom: 10px;
+}
+
+#ga2 {
+  background-color: blue;
+  margin-bottom: 10px;
+}
+
+#ga3 {
+  background-color: green;
+}
+
+#chad div {
+  height: 300px;
+  width: 200px;
+}
+#c1 {
+  background-color: darkblue;
+  float: left;
+
+}
+
+#c2 {
+  background-color: yellow;
+  float: left;
+
+}
+
+#c3 {
+  background-color: red;
+  float: left;
+}
+
 
 /* Yemen */
+#france div {
+  height: 300px;
+  width: 200px;
+}
+#f1 {
+  background-color: blue;
+  float: left;
+  margin-right:200px;
+
+}
+
+#f2 {
+  background-color: red;
+  float: left;
+
+}
+
+#benin div {
+
+}
+
+#b1 {
+  background-color: green;
+  float: left;
+  width: 150px;
+  height: 300px;
+
+}
+
+#b2 {
+  background-color: yellow;
+  height: 150px;
+  width: 400px;
+
+
+}
+
+#b3 {
+  background-color: red;
+  height: 150px;
+  width: 400px;
+
+}
+
 
 /* The Gambia */
 
@@ -67,10 +205,6 @@ h3 {
 
 /* Denmark */
 
-/* Norway */ 
+/* Norway */
 
 /* Greece */
-
-
-
-
